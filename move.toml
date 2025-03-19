@@ -1,0 +1,16 @@
+[package]
+name = "trackveh"
+version = "1.0.0"
+authors = []
+
+[addresses]
+VehicleTracking = 0x5d0c6afac35b0a8dae094d40076d63883c5cb3db4c512e8aef39e9338ed78eba
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
