@@ -22,4 +22,9 @@ The vision of this project is to create a decentralized, transparent, and tamper
 - **Decentralized and Transparent**: Eliminates the need for intermediaries and ensures data integrity.
 - **Tamper-proof Records**: Immutable vehicle data storage to prevent fraud.
 - **Efficient and Fast Transactions**: Smart contract-based automation ensures quick and hassle-free processes.
+  
+## Contact Address: 0x4c91b0bb51ec4da9fa27210850f76258c1536613326c73dbdf78cbe2b273957b
+
+![image](https://github.com/user-attachments/assets/ec202727-8f1f-45a0-af70-4b4f3ceb7fb7)
+
 
